@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e42448c5-a1e8-4753-b42f-a304c2bb9b65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/environment_set_up.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/helloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Owner\Documents\summer 2020\csci s-71\CSCIS-71\environment_set_up\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1e3B96zjOsCNpeNoWQKVpIpDhPh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSCIS-71/environment_set_up" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="helloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloWorld" />
+      <module name="environment_set_up.main" />
+      <option name="PROGRAM_PARAMETERS" value="Kristen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.helloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../spring 2020/csci e-88a/harvard-projects/CSCIE88AFP-2020/fp-scala-homework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e42448c5-a1e8-4753-b42f-a304c2bb9b65" name="Default Changelist" comment="" />
+      <created>1593540241460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593540241460</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593540400675">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1506" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1160/0.0.1920.1160@-1920.0.1920.1160" timestamp="1593540400675" />
+    <state x="-1243" y="239" key="#helloWorld" timestamp="1593540857693">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1243" y="239" key="#helloWorld/-1920.0.1920.1160/0.0.1920.1160@-1920.0.1920.1160" timestamp="1593540857693" />
+    <state x="-1180" y="336" key="FileChooserDialogImpl" timestamp="1593541003650">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1180" y="336" key="FileChooserDialogImpl/-1920.0.1920.1160/0.0.1920.1160@-1920.0.1920.1160" timestamp="1593541003650" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1593540665633">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/-1920.0.1920.1160/0.0.1920.1160@-1920.0.1920.1160" timestamp="1593540665633" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1593540665633">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.center/-1920.0.1920.1160/0.0.1920.1160@-1920.0.1920.1160" timestamp="1593540665633" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1593540665633">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.left/-1920.0.1920.1160/0.0.1920.1160@-1920.0.1920.1160" timestamp="1593540665633" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1593540665633">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/-1920.0.1920.1160/0.0.1920.1160@-1920.0.1920.1160" timestamp="1593540665633" />
+    <state x="-1480" y="155" key="SettingsEditor" timestamp="1593540610754">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1480" y="155" key="SettingsEditor/-1920.0.1920.1160/0.0.1920.1160@-1920.0.1920.1160" timestamp="1593540610754" />
+    <state x="-1578" y="193" key="new project wizard" timestamp="1593541005368">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1578" y="193" key="new project wizard/-1920.0.1920.1160/0.0.1920.1160@-1920.0.1920.1160" timestamp="1593541005368" />
+  </component>
+</project>
